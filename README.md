@@ -1,4 +1,4 @@
-## Hi, I’m **a-techy-boi**, owner of [this pretty website](https://simpletech-it.xyz)
+## Hi, I’m **a-techy-boi**, owner of [this pretty website](https://simpletech-it.xyz) and my [blog site](https://blog.simpletech-it.xyz)
 - I’m interested in computer repair, FOSS, and memes.
 - I’m currently learning [HTML](https://github.com/a-techy-boi/website) and I'm working on improving my Bash Scripting skills.
 - Pronouns: \<sarcasm\> None, please do not refer to me \<\/sarcasm\>
